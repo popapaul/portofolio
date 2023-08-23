@@ -53,7 +53,7 @@ Anual film festival which takes place in the city of Sibiu/Romania
 
 Stack: SvelteKit, SQL Server, ASP.Net Core, GraphQl, Tailwind, self maintained ui components 
 
-[![astrafilm.ro](/assets/www.astrafilm.ro.png "astrafilm.ro")](https://www.astrafilm.ro)
+[![astrafilm.ro](/assets/www.astrafilm.ro.png?v=1 "astrafilm.ro")](https://www.astrafilm.ro)
 
 
 
