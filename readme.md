@@ -31,7 +31,7 @@ Stack: SvelteKit, SQL Server, Node.js, Tailwind, self maintained ui components
 ***
 ### [Proxxon.com.ro](https://www.proxxon.com.ro)
 
-Family owned ecommerce floral shop with home delivery in the city of Iasi/Romania and around.
+Ecommerce website for a tools production company.
 
 Stack: Blazor Server, SQL Server, ASP.Net Core, MudBlazor UI
 
