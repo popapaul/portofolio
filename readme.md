@@ -2,6 +2,15 @@
 # Portofolio
 
 ***
+### [Gauci.ro](https://gauci.ro)
+
+Family owned flooring shop with home delivery in Romania.
+
+Stack: SvelteKit, SQL Server, Node.js,  Tailwind, self maintained ui components 
+
+[![Gauci.ro](https://github.com/user-attachments/assets/9906d460-a1a4-4f66-b7a2-309f19b05793)](https://gauci.ro)
+
+***
 ### [Decoratiunicudichis.ro](https://www.decoratiunicudichis.ro)
 
 Family owned ecommerce floral shop with home delivery in the city of Sibiu/Romania and around.
